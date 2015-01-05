@@ -18,3 +18,4 @@ Informed Search
 2. Heuristic 2: Eucledian Distance Search
 3. A Star Search
 
+Ping me at nkhetan@indiana.edu if you wish to appreciate/criticize/contribute to the project
